@@ -1,9 +1,9 @@
-div {
+.App {
   border-style: solid;
   border-top: none;
   border-right: none;
   border-bottom: none;
-  border-left-width: 5px;
+  border-left-width: 2px;
   border-left-color: lightgray;
 }
 
@@ -71,6 +71,7 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  
 
 }
 

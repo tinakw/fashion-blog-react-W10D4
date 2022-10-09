@@ -77,7 +77,7 @@ function App() {
             </div>
             <p class="footer">&copy; 2013 Valet Industries, Inc</p>
         </footer>
-    </div>
+        </div>
     </div>
   );
 }
