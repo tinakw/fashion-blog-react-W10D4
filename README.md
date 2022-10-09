@@ -1,4 +1,4 @@
-[Netlify Live Link] https://app.netlify.com/sites/unique-creponne-7a980d
+[Netlify Live Link] https://unique-creponne-7a980d.netlify.app
 
 [Github link of html version] https://github.com/tinakw/fashion_blog_mockup_W10D4.git
 
